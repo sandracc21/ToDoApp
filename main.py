@@ -5,7 +5,7 @@ if __name__ == "__main__":
     manager = TaskManager()
 
     
-    user1 = manager.get_user("Sandra")
+    
 
     while True:
         print("\n1. Create New Task")
